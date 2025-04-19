@@ -3,6 +3,13 @@
 	"name": "fcc-learn-npm-package-json",
 	"version": "1.0",
 	"description": "A boilerplate for a freeCodeCamp project.",
+	"keywords": [
+		"freecodecamp",
+		"boilerplate",
+		"npm",
+		"package",
+		"json"
+	],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
